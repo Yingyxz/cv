@@ -1,0 +1,33 @@
+body{
+  background-color: #E4F9F5;
+  text-align: center;
+}
+h1{
+  color: #66BFBF;
+  font-family: 'Taprom', cursive;
+  margin-bottom: 0px;
+}
+
+
+h2{
+  color: #66BFBF;
+}
+h3{
+  color:#11999E;
+}
+
+
+
+
+.pic1{
+  width: 400px;
+  height: 400px;
+  margin: 0 auto 0 auto;
+  background-color: #E4F9F5;
+}
+.bottom-container{
+  color: #11999E;
+}
+.intro{
+  font-weight: normal;
+}
